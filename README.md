@@ -1,4 +1,5 @@
 # recipes-ratings-model
+Here is the link to our Exploratory Data Analysis on this dataset: https://anushkahit.github.io/recipes-ratings-analysis/
 
 ## Framing the Problem
 Data Cleaning
